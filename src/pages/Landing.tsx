@@ -120,7 +120,7 @@ export default function Landing() {
               <div className="lg:w-1/2">
                 <div className="max-w-md mx-auto">
                   <img
-                    src="../assets/Profile.png"
+                    src="Profile.png"
                     alt="Web Development Services"
                     className="rounded-2xl shadow-2xl border border-slate-700 w-full h-auto object-cover"
                   />
@@ -183,7 +183,7 @@ export default function Landing() {
                   category: "Web Development",
                   github: "https://github.com/KSCervantes/Typescript_Portfolio",
                   demo: "https://kylecervantes.netlify.app/",
-                  image: "../assets/Portfolio.png",
+                  image: "Portfolio.png",
                   status: "Completed", // Add status here
                 },
                 {
@@ -191,7 +191,7 @@ export default function Landing() {
                   category: "Web Development",
                   github: "#",
                   demo: "https://fitness-tracker-demo.com",
-                  image: "../assets/ROTC Logo.png",
+                  image: "ROTC Logo.png",
                   status: "Soon to be Publish", // Add status here
                 },
                 {
@@ -199,7 +199,7 @@ export default function Landing() {
                   category: "Mobile App Development",
                   github: "#",
                   demo: "https://corporate-dashboard-demo.com",
-                  image: "../assets/ogol.png",
+                  image: "ogol.png",
                   status: "In Progress", // Add status here
                 },
               ].map((project, index) => (
@@ -262,7 +262,7 @@ export default function Landing() {
               <div className="lg:w-1/2 mb-12 lg:mb-0">
                 <div className="max-w-md mx-auto">
                   <img
-                    src="../assets/Profile.png"
+                    src="Profile.png"
                     alt="Our Team"
                     className="rounded-xl shadow-2xl border border-emerald-500/30 w-full h-auto object-cover"
                   />
@@ -329,7 +329,7 @@ export default function Landing() {
               <div className="md:w-1/3 mb-8 md:mb-0">
                 <div className="max-w-xs mx-auto">
                   <img
-                    src="../assets/Profile.png"
+                    src="Profile.png"
                     alt="Contact Us"
                     className="rounded-full border-4 border-emerald-500/30 shadow-lg w-full"
                   />
